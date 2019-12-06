@@ -1,0 +1,1 @@
+http://20048790:Dhanu100.@g4u2317.houston.hp.com:8032/sap/bc/srt/wsdl/srvc_00215A971E041ED696818DE0AA665E0B/wsdl11/allinone/ws_policy/document?sap-client=007
